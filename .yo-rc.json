@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Angular Directives and eRevMax",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "rgksugan",
+    "githubRepository": "angular-directives-presentation"
+  }
+}
