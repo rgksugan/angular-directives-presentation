@@ -1,0 +1,29 @@
+[
+    "index.md",
+    [
+        "directives.html",
+        "declarative.html",
+        "datadriven.html",
+        "conversational.html"
+    ],
+    "inbuilt-directives.html",
+    [
+        "directive-structure.html",
+        "directive-definition-object.html",
+        "directive-structure.html"
+    ],
+    [
+    	"configuration-options.html",
+    	"priority.html",
+    	"terminal.html",
+    	"template.html",
+    	"template-url.html",
+    	"replace.html",
+    	"compile.html",
+    	"link.html",
+    	"scope.html",
+    	"controller.html",
+    	"require.html",
+    	"transclude.html"
+    ]
+]
