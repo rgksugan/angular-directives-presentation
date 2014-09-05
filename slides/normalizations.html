@@ -3,4 +3,17 @@
 <ul>
 	<li>Strip x- and data- from the front</li>
 	<li>Convert the :, -, or _-delimited name to camelCase</li>
+	<li>
+		<ul>
+			<li>ng-bind</li>
+			<li>ng:bind</li>
+			<li>ng_bind</li>
+			<li>data-ng-bind</li>
+			<li>x-ng-bind</li>
+		</ul>
+	</li>
 </ul>
+
+<br>
+
+<p class="alert alert-success">Prefer using the dash-delimited format (e.g. ng-bind for ngBind). If you want to use an HTML validating tool, you can instead use the data-prefixed version (e.g. data-ng-bind for ngBind). The other forms shown above are accepted for legacy reasons but we advise you to avoid them.</p>

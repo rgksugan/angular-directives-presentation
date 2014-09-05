@@ -2,6 +2,7 @@
   "name": "angular-directives-and-erevmax",
   "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "~2.6.1"
+    "reveal.js": "~2.6.1",
+    "bootstrap": "~3.2.0"
   }
 }
