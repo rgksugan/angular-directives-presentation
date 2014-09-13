@@ -1,11 +1,14 @@
 [
-    "index.md",
+    "index.html",
+    "angular.html",
+    "angular-quick-overview.html",
     [
         "directives.html",
         "declarative.html",
         "datadriven.html",
         "conversational.html"
     ],
+    "normalizations.html",
     "inbuilt-directives.html",
     [
         "directive-structure.html",
