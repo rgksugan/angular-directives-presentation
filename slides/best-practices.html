@@ -1,0 +1,11 @@
+<h3>Best Practices</h3>
+
+<ul>
+	<li>Prefer using the dash-delimited format. If you want to use an HTML validating tool, you can instead use the data-prefixed version.</li>
+	<li>Prefer using directives via tag name and attributes over comment and class names.</li>
+	<li>Prefer using the definition object over returning a function.</li>
+	<li>Prefix your own directive names with a two or three letter prefix.</li>
+	<li>Unless your template is very small, it's typically better to break it apart into its own HTML file and load it with the templateUrl option.</li>
+	<li>Directives should clean up after themselves. You can use element.on('$destroy', ...) or scope.$on('$destroy', ...) to run a clean-up function when the directive is removed.</li>
+	<li>Use controller when you want to expose an API to other directives. Otherwise use link.</li>
+</ul>
