@@ -2,7 +2,10 @@
     "index.html",
     "angular.html",
     "angular-quick-overview.html",
-    "dollar-compile.html",
+    [
+        "dollar-compile.html",
+        "compile-vs-link.html"
+    ],
     [
         "directives.html",
         "declarative.html",
