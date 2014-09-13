@@ -1,29 +1,37 @@
 [
-    "index.md",
+    "index.html",
+    "angular.html",
+    "angular-quick-overview.html",
+    "dollar-compile.html",
     [
         "directives.html",
         "declarative.html",
         "datadriven.html",
         "conversational.html"
     ],
+    "normalizations.html",
     "inbuilt-directives.html",
+    "creating-directives.html",
     [
         "directive-structure.html",
         "directive-definition-object.html",
         "directive-structure.html"
     ],
     [
-    	"configuration-options.html",
-    	"priority.html",
-    	"terminal.html",
-    	"template.html",
-    	"template-url.html",
-    	"replace.html",
-    	"compile.html",
-    	"link.html",
-    	"scope.html",
-    	"controller.html",
-    	"require.html",
-    	"transclude.html"
-    ]
+        "configuration-options.html",
+        "restrict.html",
+        "priority.html",
+        "terminal.html",
+        "template.html",
+        "template-url.html",
+        "replace.html",
+        "compile.html",
+        "link.html",
+        "controller.html",
+        "scope.html",
+        "require.html",
+        "transclude.html"
+    ],
+    "best-practices.html",
+    "final-words.html"
 ]
