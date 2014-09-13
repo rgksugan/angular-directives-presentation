@@ -33,7 +33,8 @@
         "controller.html",
         "scope.html",
         "require.html",
-        "transclude.html"
+        "transclude.html",
+        "multielement.html"
     ],
     "best-practices.html",
     "final-words.html"
