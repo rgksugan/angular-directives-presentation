@@ -1,5 +1,10 @@
 [
-    "index.html",
+    {
+        "filename": "index.html",
+        "attr": {
+            "data-transition": "concave"
+        }
+    },
     "angular.html",
     "angular-quick-overview.html",
     [
