@@ -22,8 +22,7 @@
     "creating-directives.html",
     [
         "directive-structure.html",
-        "directive-definition-object.html",
-        "directive-structure.html"
+        "directive-definition-object.html"
     ],
     [
         "configuration-options.html",
@@ -39,9 +38,9 @@
         "scope.html",
         "require.html",
         "transclude.html",
-        "multielement.html"
+        "multielement.html",
+        "template-namespace.html"
     ],
     "best-practices.html",
-    "final-words.html",
-    "template-namespace.html"
+    "final-words.html"
 ]
