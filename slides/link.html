@@ -1,12 +1,12 @@
-<h4>link</h4>
+<h3>Link</h3>
 
-
+<pre>
+	function link(scope, element, attrs) { ... }
+</pre>
 <ul>
-	<li>To modify DOM</li>
-	<pre>
-		function link(scope, element, attrs) { ... }
-	</pre>
 	<li>scope - is an Angular scope object.</li>
 	<li>element - is the jqLite-wrapped element that this directive matches.</li>
 	<li>attrs - is a hash object with key-value pairs of normalized attribute names and their corresponding attribute values.</li>
+	<li>Responsible for registering DOM listeners as well as updating the DOM</li>
+	<li>Used only if 'compile' function is not used.</li>
 </ul>

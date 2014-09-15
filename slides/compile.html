@@ -1,1 +1,12 @@
-<h4>compile</h4>
+<h3>Compile</h3>
+
+<pre>function compile(tElement, tAttrs, transclude) { ... }</pre>
+
+<ul>
+	<li>DOM listener registration should be done in a linking function rather than in a compile function.</li>
+	<li>Can return an object or an function</li>
+	<ul>
+		<li>Function - link</li>
+		<li>Object - pre, post</li>
+	</ul>
+</ul>
